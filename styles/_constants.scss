@@ -1,0 +1,9 @@
+$bgcolor1: #c0eea9;
+$bgcolor2: #97d279;
+$standaardPadding: 20px;
+
+@mixin lettertype() {
+  color: #090b08;
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
+}
